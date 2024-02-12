@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: fintech-bank-api
-        image: ghcr.io/forceattack012/fun-exercise-api:bdf37461e41eded8032c3184e3ca616ea106b0e1
+        image: ghcr.io/forceattack012/fun-exercise-api:52a735d07f9cc047da8677ade4024d7f77a13e55
         imagePullPolicy: Always
         ports:
         - containerPort: 9090
